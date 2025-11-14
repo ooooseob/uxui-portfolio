@@ -1,3 +1,5 @@
+.vscode/
+
 # 패키지 디렉터리
 node_modules/
 npm-debug.log*
